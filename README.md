@@ -1,3 +1,3 @@
 # danger-swift-workshop
 
-A description of this package.
+Danger Test project
