@@ -1,3 +1,3 @@
 # danger-swift-workshop
 
-Danger Test project
+Danger Swift Test Project
