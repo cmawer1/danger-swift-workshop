@@ -1,5 +1,5 @@
+install: ant deps
 language: java
 jdk:
-  - oraclejdk8
-install: ant deps
+  - oraclejdk9
 os: osx
