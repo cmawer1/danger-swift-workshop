@@ -1,3 +1,3 @@
 struct danger_swift_workshop {
-    var text = "Hello, World!"
+    var text = "Hello, all the World!"
 }
